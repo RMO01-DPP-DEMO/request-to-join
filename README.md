@@ -11,4 +11,9 @@
 3. 上記のGithubアカウントを用いて、[try.rancher.com](https://try.rancher.com)(無料)でのサインアップをお済ませください。
 4. [Rancher Meetup #01 in Osaka](https://rancherjp.connpass.com/event/58191/)の当日のみ、[try.rancher.com](https://try.rancher.com)でご覧いただくことができます。
 
+##### NOTICE
+* 当日イベントにご参加いただけない方もお気軽にご登録ください。
+* デモ環境はイベントの翌日には閲覧できなくなります。
+* ご自身で構築してみたい方のために、環境の設定ファイル等一式を別途アナウンス致します。
+
 ![DPP on Rancher](dpp_on_rancher.png)
