@@ -8,8 +8,9 @@
 
 1. Githubアカウントをご用意ください。
 2. 参加希望の旨を、当リポジトリの[issue](https://github.com/RMO01-DPP-DEMO/request-to-join/issues)に登録してください。
-3. 上記のGithubアカウントを用いて、[try.rancher.com](https://try.rancher.com)(無料)でのサインアップをお済ませください。
-4. [Rancher Meetup #01 in Osaka](https://rancherjp.connpass.com/event/58191/)の当日のみ、[try.rancher.com](https://try.rancher.com)でご覧いただくことができます。
+3. こちらでissueを確認し、[RMO01-DPP-DEMO](https://github.com/RMO01-DPP-DEMO)にメンバーとして追加します。
+4. 上記のGithubアカウントを用いて、[try.rancher.com](https://try.rancher.com)(無料)でのサインアップをお済ませください。
+5. [Rancher Meetup #01 in Osaka](https://rancherjp.connpass.com/event/58191/)の当日のみ、[try.rancher.com](https://try.rancher.com)でご覧いただくことができます。
 
 ##### NOTICE
 * 当日イベントにご参加いただけない方もお気軽にご登録ください。
