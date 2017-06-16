@@ -1,3 +1,5 @@
+![blueprint](dpp_on_rancher_bp.png)
+
 ### デモ環境の閲覧をご希望の方へ
 
 [Rancher Meetup #01 in Osaka](https://rancherjp.connpass.com/event/58191/)でご紹介する、`DPP(Data Processing Platform) on Rancher`のデモ環境を
@@ -10,7 +12,7 @@
 2. 参加希望の旨を、当リポジトリの[issue](https://github.com/RMO01-DPP-DEMO/request-to-join/issues)に登録してください。
 3. こちらでissueを確認し、[RMO01-DPP-DEMO](https://github.com/RMO01-DPP-DEMO)にメンバーとして追加します。
 4. 上記のGithubアカウントを用いて、[try.rancher.com](https://try.rancher.com)(無料)でのサインアップをお済ませください。
-5. [Rancher Meetup #01 in Osaka](https://rancherjp.connpass.com/event/58191/)の**当日のみ**、[try.rancher.com](https://try.rancher.com)でご覧いただくことができます。
+5. [Rancher Meetup #01 in Osaka](https://rancherjp.connpass.com/event/58191/)の**当日のみ**、[コチラ](https://try.rancher.com/env/1a547189/apps/stacks)でご覧いただくことができます。
 
 ![HOW_TO_SWITCH_ENV](how_to_switch_env.png)
 
