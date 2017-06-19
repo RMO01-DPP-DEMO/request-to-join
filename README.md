@@ -1,3 +1,5 @@
+# ※ 受付は終了しています。 
+
 ![blueprint](dpp_on_rancher_bp.png)
 
 ### デモ環境の閲覧をご希望の方へ
